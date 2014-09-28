@@ -1,0 +1,8 @@
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\add_name.AddNameFrom.resources
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\add_name.csproj.GenerateResource.Cache
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
